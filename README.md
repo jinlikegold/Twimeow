@@ -10,7 +10,7 @@ App features I created:
 * All new tweets, replies, and interactions are saved in local storage and resumes upon browser refresh
 * Option to clear content stored in browser and start over
 
-I learned a lot working on this project! I wrote and rewrote several of the features in my pursuit to create the best user experience, including opting to have the trash icon feature delete tweets and replies only from the data rather than permanently delete from the code. 
+I learned a lot working on this project! I wrote and rewrote several of the features in my pursuit to create the best user experience, including opting to have the "trash" feature delete tweets and replies only from the data, rather than permanently delete from the code. 
 
 ## About Scrimba
 
