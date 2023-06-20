@@ -1,6 +1,8 @@
 ## Twimeow
 
-A Twitter-like app where one can tweet, reply, and interact as user @AnonymousCat! Originally a JS learning tutorial project, I made significant additions to the tutorial code.
+[Live Demo](https://jinlikegold.github.io/Twimeow/)
+
+A Twitter-like app where one can tweet, reply, and interact as user @AnonymousCat! Originally a JS learning project from Scrimba, I made significant additions after learning to write the tutorial code.
 
 App features I created:
 * The ability to reply to existing tweets (the hardcoded tweetsData object containing the first 3 tweets and replies was created by Scrimba)
